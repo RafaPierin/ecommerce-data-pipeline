@@ -1,0 +1,6 @@
+pandas>=2.2
+requests>=2.31
+matplotlib>=3.8
+# Optional, only for --target bigquery
+# google-cloud-bigquery>=3.20
+# pyarrow>=15
